@@ -30,10 +30,9 @@
   },{
 "common": {
       "ads_list": [
-        "am",
-        "sa"
+        "am"
       ],
-	"disable_sa":false}
+	"disable_sa":true}
 	
  }
 ]
