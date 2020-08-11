@@ -1,5 +1,17 @@
 [
   {
+  	"beauty.picshop.live.face.sticker.sweet.camera": {
+      "am_ba": "pB9uLgOMl+AuyfnNA8qwasNNNQUDw9Xa8aE74wwTN5mP16SSkub0JwD0mdsSZHle",
+      "am_in": "pB9uLgOMl+AuyfnNA8qwatKscjp/QWwcs8qazL9dGxQvDW3FaohEuGvvOqlu28GX",
+      "am_vi": "pB9uLgOMl+AuyfnNA8qwaoLYtEWHOZVkAr2XuHGaYDleBz5BTzk22hB/AqR9RrT7",
+      "am_na": "pB9uLgOMl+AuyfnNA8qwaq+RoGZ0qRRcstY83exbKGci2bPhp/UgjpqLv5G06dlM",
+
+      "fb_ba": "IKBpqXXNRTvG4hAliq+s3LGYShRcPpVcX/0mUwcJBY+h/PXGvYHnDzLFupvbpOmS",
+      "fb_in": "X2vrQFz2yGir5qaSPHFw4h/Jsx/cfIdtshJrOS2Vuc+FtKOR+h8rbdOt/SpBFmJm",
+      "fb_re": "yXx/duWzNBvAzufRZeINppRnbK+vXRRBq6Q6issqdpU=",
+      "fb_na": "4PXmHqO6vr6uEXPjg31q6Eq8Xq7Y2Ar+i4ysVw097cBinqwZvNY9tL6DcjiOYZ3q",
+	"ads_list": ["am","fb"]
+    },
 "beauty.picshop.rose.photo.frames.test": {
       "am_ba": "pB9uLgOMl+AuyfnNA8qwasNNNQUDw9Xa8aE74wwTN5mP16SSkub0JwD0mdsSZHle",
       "am_in": "pB9uLgOMl+AuyfnNA8qwatKscjp/QWwcs8qazL9dGxQvDW3FaohEuGvvOqlu28GX",
