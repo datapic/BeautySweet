@@ -6,7 +6,11 @@
       "am_vi": "ghifJoKjVNjWKnkRO1raSpcnwxemnM9twmKw3Ci9QNW6Mw0hN39gPicgwXKIhGwv",
       "am_na": "ghifJoKjVNjWKnkRO1raSp8xJUrAsXEzzSRO9wE39+bLUMlpmeQ/BFXEQVDsnzTW",
 
-	"ads_list": ["am"]
+      "fb_ba": "dZPR6yKdcWm5lNLcWLkfv+oHSyY7TLMwM6rn3PkJIyk5ZT8MK1qe0po8HBUvOKoc",
+      "fb_in": "dZPR6yKdcWm5lNLcWLkfv+Zq6Dh2GQK/9BzUc7ljwvYPwAWfRTUYi9Cyb3m7uKlY",
+      "fb_re": "dZPR6yKdcWm5lNLcWLkfv0SCJA4mSLFrte7jX6fMlo6PO6ONY4RqUIokN9K3JsG/",
+      "fb_na": "dZPR6yKdcWm5lNLcWLkfv4raOpRsQPHXy3dIO7u15ScYiGbsEH5U/LCL6YPwvqZ/",
+	"ads_list": ["fb","am"]
     },
 
   	"beauty.picshop.neon.horns.devil.photo.editor": {
