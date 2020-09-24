@@ -1,16 +1,12 @@
 [
   {
   	"beauty.picshop.filters.selfie": {
-  	  "am_ba": "ghifJoKjVNjWKnkRO1raShCK/AWvDKfzc1iJYn1SBZ5lzY0KU9/xeMycJP8MEECR",
-      "am_in": "ghifJoKjVNjWKnkRO1raSqasM6mVRyV8A51S+kr2Od6JjEQi2H8Hi6BwV06LdHTl",
-      "am_na": "ghifJoKjVNjWKnkRO1raSrp+Ie5sec+eASoByu9A0eL3airlBRL7qzNndNFeFKY7",
-
       "fb_ba": "jC2Er5I3ipnWVPDNviuS+dMwM4dykVGt8BK4KEjtNy0ghMmlpDVFNidzS0hmd9GG",
       "fb_in": "jC2Er5I3ipnWVPDNviuS+U1oPtiZCZPkkSGtnFLbscF4ZBuanrGBKYQFCogh2Ug7",
       "fb_re": "jC2Er5I3ipnWVPDNviuS+QxVqkbd1dk3j7FFP0YNx3OWQdWOkdKatmEa9/8qWpv9",
       "fb_na": "jC2Er5I3ipnWVPDNviuS+ZP1fTtRxkdUxx0nX4ZesuVaGocYrNeQHGN4/oEnGbcP",
 
-      "ads_list": ["fb", "am"]
+      "ads_list": ["fb"]
     },
 
     "beauty.picshop.neon.horns.devil.photo.editor": {
