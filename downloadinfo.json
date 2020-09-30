@@ -1,5 +1,21 @@
 [
   {
+    "beauty.picshop.crown.heart.emoji.camera": {
+      "am_ba": "ghifJoKjVNjWKnkRO1raSh6vphy24RkcjXN+EYVKu9dLjMt4MP6cQ+ofAmnYSA7D",
+      "am_in": "ghifJoKjVNjWKnkRO1raSvNw3oJRJCMoedL4wWaHHSNcQEE7WO6yjnFsqq4EeQcB",
+      "am_na": "ghifJoKjVNjWKnkRO1raSvllEDI5NDwxWXiLzECCLS50Ed4tOpcYQlfAKgWEgd4N",
+
+      "ads_list": ["am"]
+    },
+
+    "beauty.picshop.filter.snapchat": {
+      "am_ba": "ghifJoKjVNjWKnkRO1raSqjMpSLfTyK8mLrvvGiCE5zm6vqVfX22MbV2UxLHiXS3",
+      "am_in": "ghifJoKjVNjWKnkRO1raSi2SlrJKjwY/7AnG4/FWNT5XLgQY5m7II1Db4+VTUxug",
+      "am_na": "ghifJoKjVNjWKnkRO1raSrgq9BDUYQr1ECnlyiqPVrxyjbGVG/1nNyRW5pEoDCsl",
+
+      "ads_list": ["am"]
+    },
+
   	"beauty.picshop.filters.selfie": {
       "fb_ba": "jC2Er5I3ipnWVPDNviuS+dMwM4dykVGt8BK4KEjtNy0ghMmlpDVFNidzS0hmd9GG",
       "fb_in": "jC2Er5I3ipnWVPDNviuS+U1oPtiZCZPkkSGtnFLbscF4ZBuanrGBKYQFCogh2Ug7",
