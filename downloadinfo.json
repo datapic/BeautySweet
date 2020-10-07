@@ -1,11 +1,25 @@
 [
   {
+    "beauty.picshop.sweet.face.camera": {
+      "fb_ba": "WnCESNasFglSkkVSpuQqmDgUPzNOY9+VUPEdXZcQZI8=",
+      "fb_in": "WnCESNasFglSkkVSpuQqmHBDWLa2Rzm0sfWvmmgXO8Y=",
+      "fb_re": "WnCESNasFglSkkVSpuQqmEDf2LNg2xOGvGvVu2f0s2s=",
+      "fb_na": "WnCESNasFglSkkVSpuQqmHzEk7aaZq4hAbKdtzYH6S8=",
+
+      "ads_list": ["fb"]
+    },
+
     "beauty.picshop.crown.heart.emoji.camera": {
       "am_ba": "ghifJoKjVNjWKnkRO1raSh6vphy24RkcjXN+EYVKu9dLjMt4MP6cQ+ofAmnYSA7D",
       "am_in": "ghifJoKjVNjWKnkRO1raSvNw3oJRJCMoedL4wWaHHSNcQEE7WO6yjnFsqq4EeQcB",
       "am_na": "ghifJoKjVNjWKnkRO1raSvllEDI5NDwxWXiLzECCLS50Ed4tOpcYQlfAKgWEgd4N",
 
-      "ads_list": ["am"]
+       "fb_ba": "dVXE3peLwj77Vt2Wv/Sz8s9J6Cc1Nf4kUmtThY86x0dnEkVqnord+cem51OaqbS9",
+      "fb_in": "dVXE3peLwj77Vt2Wv/Sz8s6m0/rkipudFRzYag0bq68AWfRqr4LfYdDocy6t3Q7H",
+      "fb_re": "dVXE3peLwj77Vt2Wv/Sz8sSz9MM5G7AnQhKK+ZZiTPnHdAoXXUidM7yOvPaJjxGk",
+      "fb_na": "dVXE3peLwj77Vt2Wv/Sz8rBy0rr3RrOtwrPopyk3ZzZhvlbbEZi08bFRfgdkJCwf",
+
+      "ads_list": ["fb", "am"]
     },
 
     "beauty.picshop.filter.snapchat": {
@@ -13,7 +27,12 @@
       "am_in": "ghifJoKjVNjWKnkRO1raSi2SlrJKjwY/7AnG4/FWNT5XLgQY5m7II1Db4+VTUxug",
       "am_na": "ghifJoKjVNjWKnkRO1raSrgq9BDUYQr1ECnlyiqPVrxyjbGVG/1nNyRW5pEoDCsl",
 
-      "ads_list": ["am"]
+      "fb_ba": "4UsF5mlSyoD5e7hwye9RA21VyspzEVW3CWb5h5EGgfo=",
+      "fb_in": "4UsF5mlSyoD5e7hwye9RAxD9T1jXLM0lnKmJcNsKzjQ=",
+      "fb_re": "4UsF5mlSyoD5e7hwye9RAxFa6XsZrtRVXKXarqvo6SU=",
+      "fb_na": "4UsF5mlSyoD5e7hwye9RA2y7avyd0nNTxYutjnCJvrI=",
+
+      "ads_list": ["fb", "am"]
     },
 
   	"beauty.picshop.filters.selfie": {
@@ -23,14 +42,6 @@
       "fb_na": "jC2Er5I3ipnWVPDNviuS+ZP1fTtRxkdUxx0nX4ZesuVaGocYrNeQHGN4/oEnGbcP",
 
       "ads_list": ["fb"]
-    },
-
-    "beauty.picshop.neon.horns.devil.photo.editor": {
-      "am_ba": "ghifJoKjVNjWKnkRO1raSqjMpSLfTyK8mLrvvGiCE5zm6vqVfX22MbV2UxLHiXS3",
-      "am_in": "ghifJoKjVNjWKnkRO1raSi2SlrJKjwY/7AnG4/FWNT5XLgQY5m7II1Db4+VTUxug",
-      "am_na": "ghifJoKjVNjWKnkRO1raSrgq9BDUYQr1ECnlyiqPVrxyjbGVG/1nNyRW5pEoDCsl",
-
-      "ads_list": ["am"]
     },
 
   	"beauty.picshop.live.face.sticker.sweet.camera": {
