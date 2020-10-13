@@ -1,12 +1,25 @@
 [
   {
+  	"beauty.picshop.face.emoji.photo.editor": {
+    	"am_in": "ghifJoKjVNjWKnkRO1raSi+FIOvAQ1IH/Y7bK2dlE9WgSYFt63EucS3dOajAnQzq",
+
+      "fb_ba": "+HvctWGfkRIF1nRdrCTPrtdj8/MmQMVtX5qfRCczVSI=",
+      "fb_in": "+HvctWGfkRIF1nRdrCTPrgra5/B8dt18LIYrBbcN+9U=",
+      "fb_re": "+HvctWGfkRIF1nRdrCTPrp1K8iu21gK1L6CyPxm01+s=",
+      "fb_na": "+HvctWGfkRIF1nRdrCTPruCxzluqKjJIjNXHNT8M/Yk=",
+
+      "ads_list": ["am","fb"]
+    },
+
     "beauty.picshop.sweet.face.camera": {
+    	"am_in": "ghifJoKjVNjWKnkRO1raSi5etC4rLqFTXH2YtFO1VtWwfI2e4WMaHAZEKBBK63ha",
+
       "fb_ba": "WnCESNasFglSkkVSpuQqmDgUPzNOY9+VUPEdXZcQZI8=",
       "fb_in": "WnCESNasFglSkkVSpuQqmHBDWLa2Rzm0sfWvmmgXO8Y=",
       "fb_re": "WnCESNasFglSkkVSpuQqmEDf2LNg2xOGvGvVu2f0s2s=",
       "fb_na": "WnCESNasFglSkkVSpuQqmHzEk7aaZq4hAbKdtzYH6S8=",
 
-      "ads_list": ["fb"]
+      "ads_list": ["am","fb"]
     },
 
     "beauty.picshop.crown.heart.emoji.camera": {
