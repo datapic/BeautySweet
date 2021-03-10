@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon2.png",
       "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic2.png",
-      "appName": "Sweet Snap Camera Lite",
-      "description": "Sweet Snap Camera is the best choice for you if you are looking for an outstanding selfie filter camera!",
-      "package": "sweet.snap.art.camera.lite.snap.cat.face.camera",
+      "appName": "Filters for Selfies",
+      "description": "Filters for selfies is the best choice for you if you are looking for an outstanding selfie filter camera!",
+      "package": "sweet.snap.art.filters.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
