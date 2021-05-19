@@ -13,9 +13,9 @@
     {
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
-      "appName": "Emoji Background Photo Editor",
-      "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
-      "package": "sweet.candy.emoji.background.photo.editor",
+      "appName": "Album Cover Maker",
+      "description": "This is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
+      "package": "com.photo.beauty.plus.album.cover",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
