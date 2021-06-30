@@ -82,16 +82,16 @@
     },
 
   	"beauty.picshop.sweet.snap.live.filter.snap.cat.face.camera": {
-      "am_ba": "ghifJoKjVNjWKnkRO1raSq06X9DlmQ75P9nGeK/SdxWELRFUdgQup6Zcg+isj68J",
-      "am_in": "ghifJoKjVNjWKnkRO1raShXsQVKyuWK1vNVe3wbZSnTSkTooEbu9SYnJxkYnAEXm",
-      "am_na": "ghifJoKjVNjWKnkRO1raSkmuBJduUt6Qe8ymbbC54WfRH6u8mJv48dso+KOUne3q",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
 
       "fb_ba": "4mL/E7KeZ/h3JGcx2ZlhBDpYz0135U6BER8XPSEBK/UJPMIJwDq/czYcNXrHkGao",
       "fb_in": "4mL/E7KeZ/h3JGcx2ZlhBLUy4XG19NEYHS7YDy/BHQqHNCqzyC31GlG54TNuA3MB",
       "fb_re": "4mL/E7KeZ/h3JGcx2ZlhBIGGWfwJYSLpyrZylvbnxmBS9JQ7MjJHyOBMZ/tBRQ4Y",
       "fb_na": "4mL/E7KeZ/h3JGcx2ZlhBAZAv4ZXrIzeaB9ZOx8gQ/ggLzYbTcGYQUQg+paHKuyV",
-	"ads_list": ["fb","am"],
-	"disable_sa":true
+    	"ads_list": ["fb"],
+    	"disable_sa":true
     },
 
 "beauty.picshop.rose.photo.frames.test": {
