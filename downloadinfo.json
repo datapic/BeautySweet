@@ -1,5 +1,15 @@
 [
   {
+    "beauty.picshop.sweet.live.filter.cat.face.camera": {
+
+      "fb_ba": "ifCRNpkv8BM2lB9NLJp1oNbMvtRIZVaNHaTKGFZLfDdiM8dmBDlocYL9G3wXMScD",
+      "fb_in": "ifCRNpkv8BM2lB9NLJp1oMXP+rn625d5dcFAIKpSDHnZIkRj1lngKAMu7n8V8Hak",
+      "fb_re": "ifCRNpkv8BM2lB9NLJp1oDBQtN1dlk3al3J74Cn+2MizEQwFRImA4rzPW24z49MK",
+      "fb_na": "ifCRNpkv8BM2lB9NLJp1oF3kNA0noKADdHubGlGXomjP2hgPlS5T21LfAUitUpc0",
+
+      "ads_list": ["fb"]
+    },
+
   	"beauty.picshop.face.emoji.photo.editor": {
       "am_ba": "ghifJoKjVNjWKnkRO1raSqvOd3WbNvZKAZhTz4mK/noPaF3UEPqeICPdESxs8dBs",
       "am_in": "ghifJoKjVNjWKnkRO1raSgK3GInZqMyC1qxi3iGWf0yYDB4suGu0sRi6qIMj8yWi",
