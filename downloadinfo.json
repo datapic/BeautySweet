@@ -5,12 +5,12 @@
       "am_in": "OVD5krp6J2CSU5lTgF9pdr7oS7SLPvD+/LdtuTlbOYCHsG9Rkn8HBGEv95rvv/jK",
       "am_na": "OVD5krp6J2CSU5lTgF9pdsgvz+InUm5PxZkAYIoA8P/L7hZZ0PWP8CbZKhgG2mPs",
 
-      "fb_ba": "ifCRNpkv8BM2lB9NLJp1oNbMvtRIZVaNHaTKGFZLfDdiM8dmBDlocYL9G3wXMScD",
-      "fb_in": "ifCRNpkv8BM2lB9NLJp1oMXP+rn625d5dcFAIKpSDHnZIkRj1lngKAMu7n8V8Hak",
-      "fb_re": "ifCRNpkv8BM2lB9NLJp1oDBQtN1dlk3al3J74Cn+2MizEQwFRImA4rzPW24z49MK",
-      "fb_na": "ifCRNpkv8BM2lB9NLJp1oF3kNA0noKADdHubGlGXomjP2hgPlS5T21LfAUitUpc0",
+      "fb_ba": "",
+      "fb_in": "",
+      "fb_re": "",
+      "fb_na": "",
 
-      "ads_list": ["fb", "am"]
+      "ads_list": ["am"]
     },
 
   	"beauty.picshop.face.emoji.photo.editor": {
