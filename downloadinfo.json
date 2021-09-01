@@ -10,7 +10,12 @@
       "fb_re": "",
       "fb_na": "",
 
-      "ads_list": ["am"]
+      "mp_ba": "GVNrjIY0VyMLZH+qC+5yJqRJOdO9YjlLGZM1Dh7LCo6wuPqC6EEigsibU3gvT260",
+      "mp_in": "xW6VrUyPo1vApYQEYieWeh016cDOX/EtOaUkp3R61H2qHujdpMPsjxW4O8vKREeZ",
+      "mp_re": "xZxTADJOQr1AzqeoTvLpcpQEAWvSKsgFaobTN1xXLVPAIy/YlheEy4bO0Tb0ls/a",
+      "mp_na": "mFOo6SYUEZZlw06GIVHqzJDCD/AAmjdmdUH5YZ3j2cH5hQwX+atXPjV/X0EFkQmK",
+
+      "ads_list": ["mp", "am"]
     },
 
   	"beauty.picshop.face.emoji.photo.editor": {
