@@ -77,7 +77,12 @@
       "fb_re": "jC2Er5I3ipnWVPDNviuS+QxVqkbd1dk3j7FFP0YNx3OWQdWOkdKatmEa9/8qWpv9",
       "fb_na": "jC2Er5I3ipnWVPDNviuS+ZP1fTtRxkdUxx0nX4ZesuVaGocYrNeQHGN4/oEnGbcP",
 
-      "ads_list": ["fb"]
+      "mp_ba": "hgjFBwok0BvSIHphA41mtr/o4/O8WgkGPpVvQhBfL7ESiWXODqBlSfpKJUWudP62",
+      "mp_in": "z2TDlVcJ9Dm6VREyygHtnSzfqJnkmFY/zzpBnAqOjBnO/Z6Wj+2LJ/WylPs79TKE",
+      "mp_re": "HraY/esdjgtQ6k9C2aNqh/RpepyJWQer280LCkvi06OteOGirNvBDYr0CU/Z7Yh3",
+      "mp_na": "+BO0G1FJchgWvLdIRxNfLn3k0evcbpfu8UhsZTmk8Vs8evMWe5XtJGnbu+5gHWrh",
+
+      "ads_list": ["mp", "fb"]
     },
 
   	"beauty.picshop.live.face.sticker.sweet.camera": {
