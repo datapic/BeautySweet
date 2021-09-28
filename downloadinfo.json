@@ -41,7 +41,12 @@
       "fb_re": "WnCESNasFglSkkVSpuQqmEDf2LNg2xOGvGvVu2f0s2s=",
       "fb_na": "WnCESNasFglSkkVSpuQqmHzEk7aaZq4hAbKdtzYH6S8=",
 
-      "ads_list": ["fb"]
+      "mp_ba": "y7YqxSDKqBZS9QUHzrHnVRpBdMfzrjSxSqxUu32c6kgEcLPBRgIhY4hKAQ7vxq3X",
+      "mp_in": "j4/Tt3G9l76h2vaJ08C8IyQbG31CPWiXiNQV0O9UnwJhdHjkBrRvU07eE1E5FQmQ",
+      "mp_re": "LhYDRXgEwQTE47pVgSIcQd/sPWLqv3+AN5vAXCu/XyZaZGzfvm7XeKk9E9an0+23",
+      "mp_na": "Z5LUrkq0IoDdhLPBwO4MdnLVYzcBdTtIxLY36rLgcVkdOWQdh616wistwfKScEgc",
+
+      "ads_list": ["mp", "fb"]
     },
 
     "beauty.picshop.crown.heart.emoji.camera": {
