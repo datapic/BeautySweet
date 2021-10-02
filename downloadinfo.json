@@ -1,9 +1,9 @@
 [
   {
     "beauty.picshop.sweet.live.filter.cat.face.camera": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ghifJoKjVNjWKnkRO1raSoYHES7ux3KbFRgasPiN6oSKVNIZLCOs6H0l4iBsx8Xt",
+      "am_in": "ghifJoKjVNjWKnkRO1raSpxhL77tSsl7W4GNzhxOEnRmL8SfWXna+UMutb7OunOS",
+      "am_na": "ghifJoKjVNjWKnkRO1raSv3v+TaxJoK2Iscb3K/7pAItRSQ8+B/b1hxapR4N2eqF",
 
       "fb_ba": "ifCRNpkv8BM2lB9NLJp1oNbMvtRIZVaNHaTKGFZLfDdiM8dmBDlocYL9G3wXMScD",
       "fb_in": "ifCRNpkv8BM2lB9NLJp1oMXP+rn625d5dcFAIKpSDHnZIkRj1lngKAMu7n8V8Hak",
@@ -15,26 +15,31 @@
       "mp_re": "xZxTADJOQr1AzqeoTvLpcpQEAWvSKsgFaobTN1xXLVPAIy/YlheEy4bO0Tb0ls/a",
       "mp_na": "mFOo6SYUEZZlw06GIVHqzJDCD/AAmjdmdUH5YZ3j2cH5hQwX+atXPjV/X0EFkQmK",
 
-      "ads_list": ["mp", "fb"]
+      "ads_list": ["fb", "mp", "am"]
     },
 
   	"beauty.picshop.face.emoji.photo.editor": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ghifJoKjVNjWKnkRO1raSprHNSkRLSQDAR1YC9xteZydc8SaRBCrN3TWVWLEFkI3",
+      "am_in": "ghifJoKjVNjWKnkRO1raSpRifJdBu7jbbHTtuFqHkMkXMTDvHetPTYyVNu92hO6M",
+      "am_na": "ghifJoKjVNjWKnkRO1raSuxUkUc/4/XEB1hlnSe1O+EGP0OnJdZOVzD8SFL3rCdo",
 
       "fb_ba": "+HvctWGfkRIF1nRdrCTPrtdj8/MmQMVtX5qfRCczVSI=",
       "fb_in": "+HvctWGfkRIF1nRdrCTPrgra5/B8dt18LIYrBbcN+9U=",
       "fb_re": "+HvctWGfkRIF1nRdrCTPrp1K8iu21gK1L6CyPxm01+s=",
       "fb_na": "+HvctWGfkRIF1nRdrCTPruCxzluqKjJIjNXHNT8M/Yk=",
 
-      "ads_list": ["fb"]
+      "mp_ba": "P5dJajANv5nxsZpMiX4y0ZCI9NKaZRffRx9/keymFvwJm9Xgy5/rErcHE1cTbi2Y",
+      "mp_in": "kB/LH74ejHlEXNGcwAgzX1yKiKoHuQyRgPdKkwWe9MkFShoaiZbhTRHtjh0uSOwS",
+      "mp_re": "ZrOeYZSV7r1fQG7gDaFkSXjVgfUpysGCDvbGcoBGfddrmYHNw6RjxiGjGLP2k0Q5",
+      "mp_na": "qk9EwpySqqxiYesnQP/Uw8jPp3vFmr9WVvxGa3O0jvXzo1+OQKNJbF4G18CRmqwv",
+
+      "ads_list": ["fb", "am"]
     },
 
     "beauty.picshop.sweet.face.camera": {
-    	"am_ba": "",
-      	"am_in": "",
-      	"am_na": "",
+    	"am_ba": "ghifJoKjVNjWKnkRO1raSvF3eO31I3ztaowk0lnY3F8tUpfz0OvoQp8doCjeBdlm",
+      	"am_in": "ghifJoKjVNjWKnkRO1raSlmTsrUB+NfotBDqI0628xdTBDYGx+xAjFCQEJ5C6rrL",
+      	"am_na": "ghifJoKjVNjWKnkRO1raSljFWgaQ7XiOCxw43x8Z+EmG3aeo73vbvjfidPT3la2E",
 
       "fb_ba": "WnCESNasFglSkkVSpuQqmDgUPzNOY9+VUPEdXZcQZI8=",
       "fb_in": "WnCESNasFglSkkVSpuQqmHBDWLa2Rzm0sfWvmmgXO8Y=",
@@ -46,10 +51,14 @@
       "mp_re": "LhYDRXgEwQTE47pVgSIcQd/sPWLqv3+AN5vAXCu/XyZaZGzfvm7XeKk9E9an0+23",
       "mp_na": "Z5LUrkq0IoDdhLPBwO4MdnLVYzcBdTtIxLY36rLgcVkdOWQdh616wistwfKScEgc",
 
-      "ads_list": ["mp", "fb"]
+      "ads_list": [ "fb", "mp", "am"]
     },
 
     "beauty.picshop.crown.heart.emoji.camera": {
+      "am_ba": "ghifJoKjVNjWKnkRO1raSoIkSyQMu9Qudlk1chfUfZHzVwjWn/jUaurkJlgVmRdN",
+        "am_in": "ghifJoKjVNjWKnkRO1raShn4ZcVxUPmNyjyIP/0BHcSUX0F3JcefEkQvbV4guEV/",
+        "am_na": "ghifJoKjVNjWKnkRO1raSuuMsgvHig6glyYD7X0Aj143t37qI1u6IChlSHvt8sAg",
+
        "fb_ba": "dVXE3peLwj77Vt2Wv/Sz8s9J6Cc1Nf4kUmtThY86x0dnEkVqnord+cem51OaqbS9",
       "fb_in": "dVXE3peLwj77Vt2Wv/Sz8s6m0/rkipudFRzYag0bq68AWfRqr4LfYdDocy6t3Q7H",
       "fb_re": "dVXE3peLwj77Vt2Wv/Sz8sSz9MM5G7AnQhKK+ZZiTPnHdAoXXUidM7yOvPaJjxGk",
@@ -60,7 +69,7 @@
       "mp_re": "wrxvuB9sLioC2MMS7aE9C5aeKzbYE46t0h3AyK8fHuBTYQku5BGbzUWv1/1f4dMv",
       "mp_na": "IU5J6Y6plLWBWvfDxGDD7Oa1M8I52auUMloAFvqtRK7b/SjbrArRUbrqbjoONmvr",
 
-      "ads_list": ["fb", "mp"]
+      "ads_list": ["fb", "mp", "am"]
     },
 
     "beauty.picshop.filter.snapchat": {
@@ -77,6 +86,10 @@
     },
 
   	"beauty.picshop.filters.selfie": {
+      "am_ba": "ghifJoKjVNjWKnkRO1raSgx93C++hoJ4kapc1rXA5rkQI2/pwAjKLdwdfFJEg/oi",
+      "am_in": "ghifJoKjVNjWKnkRO1raSmSrtqoZJQoTpCrgHIfce9Iv9V/4E+JkwjJjk+PblT1a",
+      "am_na": "ghifJoKjVNjWKnkRO1raSsVXe75OZ6D2QQxVOs5Vq4XGnfcNXYtFaS5P74YIq0VK",
+
       "fb_ba": "jC2Er5I3ipnWVPDNviuS+dMwM4dykVGt8BK4KEjtNy0ghMmlpDVFNidzS0hmd9GG",
       "fb_in": "jC2Er5I3ipnWVPDNviuS+U1oPtiZCZPkkSGtnFLbscF4ZBuanrGBKYQFCogh2Ug7",
       "fb_re": "jC2Er5I3ipnWVPDNviuS+QxVqkbd1dk3j7FFP0YNx3OWQdWOkdKatmEa9/8qWpv9",
@@ -87,7 +100,7 @@
       "mp_re": "HraY/esdjgtQ6k9C2aNqh/RpepyJWQer280LCkvi06OteOGirNvBDYr0CU/Z7Yh3",
       "mp_na": "+BO0G1FJchgWvLdIRxNfLn3k0evcbpfu8UhsZTmk8Vs8evMWe5XtJGnbu+5gHWrh",
 
-      "ads_list": ["mp", "fb"]
+      "ads_list": [ "fb", "mp", "am"]
     },
 
   	"beauty.picshop.live.face.sticker.sweet.camera": {
@@ -103,11 +116,16 @@
     },
 
   	"beauty.picshop.neon.horns.devil.photo.editor": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ghifJoKjVNjWKnkRO1raSnwvu/J3/sj7BjICd2yPSZd+JsUtAripPM59ZIaK75M1",
+      "am_in": "ghifJoKjVNjWKnkRO1raSjqT98x6VGUS/FX0ef+evlfopCcWYLgxj5CGA8/QdYVy",
+      "am_na": "ghifJoKjVNjWKnkRO1raSlm6E4EysknGlVuWZbde6hQccCoFVvLqqAtSzTXBSwiu",
 
-	"ads_list": ["am"]
+      "mp_ba": "P5dJajANv5nxsZpMiX4y0ZCI9NKaZRffRx9/keymFvwJm9Xgy5/rErcHE1cTbi2Y",
+      "mp_in": "kB/LH74ejHlEXNGcwAgzX1yKiKoHuQyRgPdKkwWe9MkFShoaiZbhTRHtjh0uSOwS",
+      "mp_re": "ZrOeYZSV7r1fQG7gDaFkSXjVgfUpysGCDvbGcoBGfddrmYHNw6RjxiGjGLP2k0Q5",
+      "mp_na": "qk9EwpySqqxiYesnQP/Uw8jPp3vFmr9WVvxGa3O0jvXzo1+OQKNJbF4G18CRmqwv",
+
+	     "ads_list": ["mp", "am"]
     },
 
   	"beauty.picshop.sweet.snap.live.filter.snap.cat.face.camera": {
