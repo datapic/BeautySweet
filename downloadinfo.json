@@ -51,7 +51,7 @@
       "mp_re": "LhYDRXgEwQTE47pVgSIcQd/sPWLqv3+AN5vAXCu/XyZaZGzfvm7XeKk9E9an0+23",
       "mp_na": "Z5LUrkq0IoDdhLPBwO4MdnLVYzcBdTtIxLY36rLgcVkdOWQdh616wistwfKScEgc",
 
-      "ads_list": [ "fb", "mp", "am"]
+      "ads_list": ["mp", "am", "fb"]
     },
 
     "beauty.picshop.crown.heart.emoji.camera": {
