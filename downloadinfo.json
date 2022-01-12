@@ -15,7 +15,7 @@
       "mp_re": "xZxTADJOQr1AzqeoTvLpcpQEAWvSKsgFaobTN1xXLVPAIy/YlheEy4bO0Tb0ls/a",
       "mp_na": "mFOo6SYUEZZlw06GIVHqzJDCD/AAmjdmdUH5YZ3j2cH5hQwX+atXPjV/X0EFkQmK",
 
-      "ads_list": ["fb", "am", "mp"]
+      "ads_list": ["mp", "am", "fb"]
     },
 
   	"beauty.picshop.face.emoji.photo.editor": {
@@ -33,7 +33,7 @@
       "mp_re": "ZrOeYZSV7r1fQG7gDaFkSXjVgfUpysGCDvbGcoBGfddrmYHNw6RjxiGjGLP2k0Q5",
       "mp_na": "qk9EwpySqqxiYesnQP/Uw8jPp3vFmr9WVvxGa3O0jvXzo1+OQKNJbF4G18CRmqwv",
 
-      "ads_list": ["fb", "am", "mp"]
+      "ads_list": ["mp", "am", "fb"]
     },
 
     "beauty.picshop.sweet.face.camera": {
@@ -69,7 +69,7 @@
       "mp_re": "wrxvuB9sLioC2MMS7aE9C5aeKzbYE46t0h3AyK8fHuBTYQku5BGbzUWv1/1f4dMv",
       "mp_na": "IU5J6Y6plLWBWvfDxGDD7Oa1M8I52auUMloAFvqtRK7b/SjbrArRUbrqbjoONmvr",
 
-      "ads_list": ["fb", "am", "mp"]
+      "ads_list": ["mp", "am", "fb"]
     },
 
     "beauty.picshop.filter.snapchat": {
@@ -100,7 +100,7 @@
       "mp_re": "HraY/esdjgtQ6k9C2aNqh/RpepyJWQer280LCkvi06OteOGirNvBDYr0CU/Z7Yh3",
       "mp_na": "+BO0G1FJchgWvLdIRxNfLn3k0evcbpfu8UhsZTmk8Vs8evMWe5XtJGnbu+5gHWrh",
 
-      "ads_list": [ "fb", "am", "mp"]
+      "ads_list": ["mp", "am", "fb"]
     },
 
   	"beauty.picshop.live.face.sticker.sweet.camera": {
