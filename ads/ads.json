@@ -2,10 +2,10 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic2.png",
-      "appName": "Makeup Camera",
-      "description": "Makeup Camera is a powerful editor that has many amazing effects and filters.",
-      "package": "photoBeautyPlus.makeup.camera",
+      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic2.jpg",
+      "appName": "Selfie Camera Filter",
+      "description": "Selfie Camera Filter is a powerful editor that has many amazing effects and filters.",
+      "package": "foto.arte.selfie.camera.filter.beauty",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
