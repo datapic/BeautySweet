@@ -51,7 +51,12 @@
       "mp_re": "LhYDRXgEwQTE47pVgSIcQd/sPWLqv3+AN5vAXCu/XyZaZGzfvm7XeKk9E9an0+23",
       "mp_na": "Z5LUrkq0IoDdhLPBwO4MdnLVYzcBdTtIxLY36rLgcVkdOWQdh616wistwfKScEgc",
 
-      "ads_list": ["mp", "am"]
+      "al_ba": "v7g6MCPVxoe25Q4TGZkH+CUxGSsWX2ZNFG/JjHPtONA=",
+      "al_in": "ZtwEiZ2TkSCQPrwhYZ9rK5xC62ZRnddKvpRlo7DkNO0=",
+      "al_re": "li9gpgRjQLPcG8j8oaf/aPo9rGW90ZqSF7LhZti0VAM=",
+      "al_na": "x9AZgyRm1tSsQuPWFy50sCxF3mOnvzuaI8dqIfLekj8=",
+
+      "ads_list": ["al", "mp", "am"]
     },
 
     "beauty.picshop.crown.heart.emoji.camera": {
@@ -69,7 +74,12 @@
       "mp_re": "wrxvuB9sLioC2MMS7aE9C5aeKzbYE46t0h3AyK8fHuBTYQku5BGbzUWv1/1f4dMv",
       "mp_na": "IU5J6Y6plLWBWvfDxGDD7Oa1M8I52auUMloAFvqtRK7b/SjbrArRUbrqbjoONmvr",
 
-      "ads_list": ["mp", "am", "fb"]
+      "al_ba": "SK9n2NKsxCyDyv307tGT8LcvegmXlFixPMK5GdokAVw=",
+      "al_in": "2aL/fe0n4+O5Lo3rPUQLxViwYE7MK4POoYVjcU30g5o=",
+      "al_re": "zCzRhUpTXazuUZtggOLi8hBmSQuZSdmzHmk9yJYCsNU=",
+      "al_na": "BQRPc3Ps2i8LV4dId4aoypWjjN9KYsMrMZBYuIBlFG0=",
+
+      "ads_list": ["al", "mp", "am", "fb"]
     },
 
     "beauty.picshop.filter.snapchat": {
