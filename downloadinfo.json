@@ -34,6 +34,10 @@
     },
 
     "beauty.picshop.sweet.face.camera": {
+      "am_ba": "VddaD7czYXgUlPK0SISWD7yV8EGEh91CqG9Add9JH5zodkKLi+FFkTZ3JlUD+Bk6",
+      "am_in": "VddaD7czYXgUlPK0SISWDw4LuUrjn0FEspk02A8NHNWOAfUXjkrT+uXhxZfHVP/2",
+      "am_na": "VddaD7czYXgUlPK0SISWD/WiDyxfE13PCLr756IARH2e3otB8ERov3yhsDQkLlyJ",
+
       "mp_ba": "y7YqxSDKqBZS9QUHzrHnVRpBdMfzrjSxSqxUu32c6kgEcLPBRgIhY4hKAQ7vxq3X",
       "mp_in": "j4/Tt3G9l76h2vaJ08C8IyQbG31CPWiXiNQV0O9UnwJhdHjkBrRvU07eE1E5FQmQ",
       "mp_re": "LhYDRXgEwQTE47pVgSIcQd/sPWLqv3+AN5vAXCu/XyZaZGzfvm7XeKk9E9an0+23",
@@ -44,7 +48,7 @@
       "al_re": "li9gpgRjQLPcG8j8oaf/aPo9rGW90ZqSF7LhZti0VAM=",
       "al_na": "x9AZgyRm1tSsQuPWFy50sCxF3mOnvzuaI8dqIfLekj8=",
 
-      "ads_list": ["al", "mp"]
+      "ads_list": ["am", "al", "mp"]
     },
 
     "beauty.picshop.crown.heart.emoji.camera": {
