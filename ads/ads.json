@@ -2,10 +2,10 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic2.jpg",
-      "appName": "Selfie Camera Filter",
-      "description": "Selfie Camera Filter is a powerful editor that has many amazing effects and filters.",
-      "package": "foto.arte.selfie.camera.filter.beauty",
+      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic2.png",
+      "appName": "Neon Horns Devil Photo Editor",
+      "description": "Neon Horns Devil Photo Editor is a powerful editor that has many amazing effects and filters.",
+      "package": "frame.art.master.neon.horns.devil.photo.editor",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
