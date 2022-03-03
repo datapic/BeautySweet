@@ -143,6 +143,14 @@
     	"ads_list": ["fb"],
     	"disable_sa":true
     },
+    
+    "com.beauty.photo.editor": {
+      "am2_ba": "ghifJoKjVNjWKnkRO1raSuP5eRHeteCbHddbGd13LfOBESyIwLOXrVvabiJP5b9R",
+      "am2_in": "ghifJoKjVNjWKnkRO1raSuZURGaXU9f9Qkf1HIF5o85HJExHwBdFYCMVxMV/N36E",
+      "am2_na": "ghifJoKjVNjWKnkRO1raSu5HjxewFfMuo9Z77BtgerEGH/zGDVszzepErnkYHX35",
+
+      "ads_list": ["am"]
+    },
 
 "beauty.picshop.rose.photo.frames.test": {
       "am_ba": "pB9uLgOMl+AuyfnNA8qwasNNNQUDw9Xa8aE74wwTN5mP16SSkub0JwD0mdsSZHle",
@@ -170,11 +178,12 @@
 	"disable_sa":true
     }
   },{
-"common": {
+  "common": {
       "ads_list": [
         "am"
       ],
-	"disable_sa":true}
+      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"],
+	   "disable_sa":true}
 	
  }
 ]
