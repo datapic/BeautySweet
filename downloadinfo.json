@@ -102,7 +102,11 @@
       "mp_re": "HraY/esdjgtQ6k9C2aNqh/RpepyJWQer280LCkvi06OteOGirNvBDYr0CU/Z7Yh3",
       "mp_na": "+BO0G1FJchgWvLdIRxNfLn3k0evcbpfu8UhsZTmk8Vs8evMWe5XtJGnbu+5gHWrh",
 
-      "ads_list": ["am", "mp", "fb"]
+      "al_ba": "6saOcqT+oct0hO+/WmypQYn4PCXCfw5PyLmjk+BhSQk=",
+      "al_in": "/JM2DwNvyy/YsJPRPX74rND77Jis6oJiu2+nvKlr7Mo=",
+      "al_re": "tEtj7r7vEzIOWwHRptXreh8+B1r0eEOlxGxUY85c7XA=",
+
+      "ads_list": ["am", "al", "mp", "fb"]
     },
 
   	"beauty.picshop.live.face.sticker.sweet.camera": {
