@@ -1,6 +1,10 @@
 [
   {
     "beauty.picshop.sweet.live.filter.cat.face.camera": {
+      "am2_ba": "VddaD7czYXgUlPK0SISWDxSzxXg1hR4elx+CgyB0QbrRkr6d+eMoXxJIA6u/FxJf",
+      "am2_in": "VddaD7czYXgUlPK0SISWD9GD7N9/hgjYCI9YCFfoKw1wSPGP/nItU5zsYBbyk7OJ",
+      "am2_na": "VddaD7czYXgUlPK0SISWD1P6IWIA/uYiEWMThCQ34eN/Kvi9d0DcyP9FY1spyzc9",
+
       "al_ba": "K5knpeHfox87CWcngZfU8FLpSCoLDHVznXL7J1sQCMA=",
       "al_in": "wjGGZguyUxYnxSEe5KgprDuRpzF/c7HWaTafpJXElPw=",
       "al_re": "jvmECXEtKy9ZJpvV50i6Na/FVjBnnxM87/MFB/qJlHM=",
@@ -11,7 +15,7 @@
       "fb_re": "ifCRNpkv8BM2lB9NLJp1oDBQtN1dlk3al3J74Cn+2MizEQwFRImA4rzPW24z49MK",
       "fb_na": "ifCRNpkv8BM2lB9NLJp1oF3kNA0noKADdHubGlGXomjP2hgPlS5T21LfAUitUpc0",
 
-      "ads_list": ["al", "fb"]
+      "ads_list": ["am", "al", "fb"]
     },
 
   	"beauty.picshop.face.emoji.photo.editor": {
