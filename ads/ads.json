@@ -1,21 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
+      "appName": "Hair color changer",
+      "description": "Do you have a wish to look like a star? Thinking about changing your hair color? You will love how quickly you can see the results with Hair Color Changer.",
+      "package": "foto.arte.hair.color.changer",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon2.png",
       "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic2.png",
       "appName": "Sweet Beauty Camera",
       "description": "Sweet Beauty Camera is a powerful editor that has many amazing effects and filters.",
       "package": "com.beauty.artshop.sweet.beauty.camera",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
-      "appName": "Album Cover Maker",
-      "description": "This is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
-      "package": "com.photo.beauty.plus.album.cover",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
