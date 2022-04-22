@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
+      "appName": "Live face sticker sweet",
+      "description": "Do you have a wish to look like a star? Thinking about changing your hair color? You will love how quickly you can see the results with Live face sticker.",
+      "package": "frame.art.master.live.face.sticker.sweet.camera",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon2.png",
       "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic2.png",
       "appName": "Neon Horns Devil",
       "description": "Neon Horns Devil is a powerful editor that has many amazing effects and filters.",
       "package": "frame.art.master.neon.horns.devil.photo.editor",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
-      "appName": "Hair color changer",
-      "description": "Do you have a wish to look like a star? Thinking about changing your hair color? You will love how quickly you can see the results with Hair Color Changer.",
-      "package": "foto.arte.hair.color.changer",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
