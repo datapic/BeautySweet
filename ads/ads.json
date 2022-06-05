@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic1.png",
+      "appName": "Neon Horns Devil",
+      "description": "Neon Horns Devil is a powerful editor that has many amazing effects and filters.",
+      "package": "neon.horns.devil",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
       "appName": "Sweet Beauty Camera",
       "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
       "package": "sweet.beauty.cam.toanhmsg",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic2.png",
-      "appName": "Sweet Face Camera",
-      "description": "Sweet Face is a powerful editor that has many amazing effects and filters.",
-      "package": "sweet.snap.face.camera.art",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
