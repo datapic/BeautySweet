@@ -100,14 +100,13 @@
     },
 
   	"beauty.picshop.neon.horns.devil.photo.editor": {
-      "am_in": "8h7NQ6MlGUMZri/yjfq7CclV5dN58GLhjGr7h5Sq6RRixTMWm9o1kSL/0nMQkXg1",
 
       "al_ba": "jtsvKJtVUUfn26gnpd+ZGKm+WkgwJ2dr27UB4vGfWZc=",
       "al_in": "DA9xcoY+Zw/2OwdDtDkmDF5K7MWxuJ//LVZiSxXwCjk=",
       "al_re": "ZJZkgQZAyJVyKP8HIL8WPdQhMmqVBFzoWyeJjd81lV4=",
       "al_na": "WU5VW/uH249KRtgtZH0729+82tZtopqOLyysKbXu4H4=",
 
-	     "ads_list": ["am", "al"]
+	     "ads_list": ["al"]
     },
 
   	"beauty.picshop.sweet.snap.live.filter.snap.cat.face.camera": {
