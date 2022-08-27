@@ -167,7 +167,6 @@
       "ads_list": [
         "am"
       ],
-      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"],
 	   "disable_sa":true}
 	
  }
