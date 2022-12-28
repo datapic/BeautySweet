@@ -79,11 +79,11 @@
     },
 
   	"beauty.picshop.filters.selfie": {
-      "am_in": "",
-      "am_home_in": "",
+      "am_in": "ySE3/ntgrPyN32jPu4QiEJponsdWC4mMh6wdPhCHE/E9Dk0828ekyXObjxcvPh79",
+      "am_home_in": "ySE3/ntgrPyN32jPu4QiEJponsdWC4mMh6wdPhCHE/E9Dk0828ekyXObjxcvPh79",
       
-      "am2_in": "",
-      "am2_home_in": "",
+      "am2_in": "ySE3/ntgrPyN32jPu4QiEJponsdWC4mMh6wdPhCHE/E9Dk0828ekyXObjxcvPh79",
+      "am2_home_in": "ySE3/ntgrPyN32jPu4QiEJponsdWC4mMh6wdPhCHE/E9Dk0828ekyXObjxcvPh79",
 
       "fb_ba": "jC2Er5I3ipnWVPDNviuS+dMwM4dykVGt8BK4KEjtNy0ghMmlpDVFNidzS0hmd9GG",
       "fb_in": "jC2Er5I3ipnWVPDNviuS+U1oPtiZCZPkkSGtnFLbscF4ZBuanrGBKYQFCogh2Ug7",
@@ -94,7 +94,9 @@
       "al_in": "/JM2DwNvyy/YsJPRPX74rND77Jis6oJiu2+nvKlr7Mo=",
       "al_re": "tEtj7r7vEzIOWwHRptXreh8+B1r0eEOlxGxUY85c7XA=",
 
-      "ads_list": ["al", "fb"]
+      "interval": 60000,
+      
+      "ads_list": ["am", "al", "fb"]
     },
 
   	"beauty.picshop.live.face.sticker.sweet.camera": {
