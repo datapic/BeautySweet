@@ -47,8 +47,8 @@
     },
 
     "beauty.picshop.crown.heart.emoji.camera": {
-      "am_in": "",
-      "am_home_in": "",
+      "am_in": "7EBM1L9GiV6eqGC38VL/iWwSc8bcNZkXUUE6fQRRiBAB8+nNWbZoJBngSLK1aEJQ",
+      "am_home_in": "7EBM1L9GiV6eqGC38VL/iWwSc8bcNZkXUUE6fQRRiBAB8+nNWbZoJBngSLK1aEJQ",
 
       "fb_ba": "dVXE3peLwj77Vt2Wv/Sz8s9J6Cc1Nf4kUmtThY86x0dnEkVqnord+cem51OaqbS9",
       "fb_in": "dVXE3peLwj77Vt2Wv/Sz8s6m0/rkipudFRzYag0bq68AWfRqr4LfYdDocy6t3Q7H",
@@ -62,7 +62,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["al", "fb"]
+      "ads_list": ["am", "al", "fb"]
     },
 
     "beauty.picshop.filter.snapchat": {
