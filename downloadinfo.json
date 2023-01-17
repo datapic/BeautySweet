@@ -79,11 +79,11 @@
     },
 
   	"beauty.picshop.filters.selfie": {
-      "am_in": "",
-      "am_home_in": "",
+      "am_in": "lrk0XVAaCD87fBDWdPIEhLRpEf1iKbL8EowEuoMrvhJK3t8vU6EP706voZwrqlXq",
+      "am_home_in": "lrk0XVAaCD87fBDWdPIEhLRpEf1iKbL8EowEuoMrvhJK3t8vU6EP706voZwrqlXq",
       
-      "am2_in": "",
-      "am2_home_in": "",
+      "am2_in": "lrk0XVAaCD87fBDWdPIEhLRpEf1iKbL8EowEuoMrvhJK3t8vU6EP706voZwrqlXq",
+      "am2_home_in": "lrk0XVAaCD87fBDWdPIEhLRpEf1iKbL8EowEuoMrvhJK3t8vU6EP706voZwrqlXq",
 
       "fb_ba": "jC2Er5I3ipnWVPDNviuS+dMwM4dykVGt8BK4KEjtNy0ghMmlpDVFNidzS0hmd9GG",
       "fb_in": "jC2Er5I3ipnWVPDNviuS+U1oPtiZCZPkkSGtnFLbscF4ZBuanrGBKYQFCogh2Ug7",
@@ -96,7 +96,7 @@
 
       "interval": 60000,
       
-      "ads_list": ["al", "fb"]
+      "ads_list": ["am", "al", "fb"]
     },
 
   	"beauty.picshop.live.face.sticker.sweet.camera": {
