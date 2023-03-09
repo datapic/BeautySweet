@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
+      "appName": "Makeup Camera",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "photoBeautyPlus.makeup.camera",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic1.png",
       "appName": "Sweet Beauty Camera",
       "description": "Sweet Beauty Camera is a powerful editor that has many amazing effects and filters.",
       "package": "sweet.beauty.cam.toanhmsg",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
-      "appName": "Album Cover Maker",
-      "description": "This is the best app for creating beautiful template maker. Download now and be on your way to using this powerful mixtape cover maker",
-      "package": "com.photo.beauty.plus.album.cover",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
