@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic1.png",
+      "appName": "Live Face Sticker",
+      "description": "Live Face Sticker is a powerful editor that has many amazing effects and filters.",
+      "package": "mobility.studio.live.face.sticker.sweet.camera",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic.png",
       "appName": "Makeup Camera",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
       "package": "photoBeautyPlus.makeup.camera",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/datapic/BeautySweet/master/ads/graphic1.png",
-      "appName": "Sweet Beauty Camera",
-      "description": "Sweet Beauty Camera is a powerful editor that has many amazing effects and filters.",
-      "package": "sweet.beauty.cam.toanhmsg",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
