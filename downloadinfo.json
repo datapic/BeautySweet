@@ -78,11 +78,11 @@
       "al_re": "zCzRhUpTXazuUZtggOLi8hBmSQuZSdmzHmk9yJYCsNU=",
       "al_na": "BQRPc3Ps2i8LV4dId4aoypWjjN9KYsMrMZBYuIBlFG0=",
 
-      "is_id": "1d5e6790d",
+      "is_id": "",
 
       "interval": 60000,
 
-      "ads_list": ["is", "al", "am"]
+      "ads_list": ["al", "am"]
     },
 
     "beauty.picshop.filter.snapchat": {
