@@ -102,7 +102,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["am", "al"]
+      "ads_list": ["am"]
     },
 
     "beauty.picshop.filter.snapchat": {
