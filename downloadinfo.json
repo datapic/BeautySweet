@@ -84,8 +84,26 @@
 
       "ads_list": ["al"]
     },
-
     "beauty.picshop.crown.heart.emoji.camera": {
+      "am_ba": "",
+      "am_in": "+9dBU0qF0XeqZ5J4TGukjH/bPBEiDwbsbJwMJtWXwFqxI8P8JaNrwUgXE7ZnB9Mf",
+      "am_home_in": "+9dBU0qF0XeqZ5J4TGukjH/bPBEiDwbsbJwMJtWXwFqxI8P8JaNrwUgXE7ZnB9Mf",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-5928169493173258~7523345062",
+
+      "al_ba": "",
+      "al_in": "",
+      "al_re": "",
+      "al_na": "",
+
+      "is_id": "",
+
+      "interval": 60000,
+
+      "ads_list": ["am"]
+    },
+    "beauty.picshop.crown.heart.emoji.camera.masstel": {
       "am_ba": "",
       "am_in": "Pkp4Fi4bBLfS4dpK8N6GaV5iWD/llZe26Ao2buDcJltq70YWOtCuX+43dVbsar8y",
       "am_home_in": "Pkp4Fi4bBLfS4dpK8N6GaV5iWD/llZe26Ao2buDcJltq70YWOtCuX+43dVbsar8y",
