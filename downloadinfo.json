@@ -19,6 +19,23 @@
       
       "ads_list": ["am", "al"]
     },
+    "beauty.picshop.sweet.live.filter.cat.face.camera": {
+      "am2_ba": "",
+      "am2_in": "",
+      "am2_na": "",
+
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+
+      "al_ba": "",
+      "al_in": "",
+      "al_re": "",
+      "al_na": "",
+
+      "interval": 0
+    },
+
     "beauty.picshop.sweet.live.filter.cat.face.camera.bk": {
       "am2_ba": "ghifJoKjVNjWKnkRO1raSu0K3Ju+22HUv5wc7YQGmTYofm/AA2ldPLVfeeOunqAW",
       "am2_in": "ghifJoKjVNjWKnkRO1raSvUSV0zDtpO9rtEyPbu40YmPycYf7Xn9u/mj3v2GaUCU",
