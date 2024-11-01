@@ -19,22 +19,6 @@
       
       "ads_list": ["am", "al"]
     },
-    "beauty.picshop.sweet.live.filter.cat.face.camera": {
-      "am2_ba": "",
-      "am2_in": "",
-      "am2_na": "",
-
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
-
-      "al_ba": "",
-      "al_in": "",
-      "al_re": "",
-      "al_na": "",
-
-      "interval": 1
-    },
 
     "beauty.picshop.sweet.live.filter.cat.face.camera.bk": {
       "am2_ba": "ghifJoKjVNjWKnkRO1raSu0K3Ju+22HUv5wc7YQGmTYofm/AA2ldPLVfeeOunqAW",
@@ -49,27 +33,6 @@
       "al_in": "wjGGZguyUxYnxSEe5KgprDuRpzF/c7HWaTafpJXElPw=",
       "al_re": "jvmECXEtKy9ZJpvV50i6Na/FVjBnnxM87/MFB/qJlHM=",
       "al_na": "3yqpUF+2XKjLbywAQdkPXzf+hRwdhewBsfV4ZkZm5UY=",
-
-      "interval": 60000,
-
-      "ads_list": ["am", "al"]
-    },
-
-    "beauty.picshop.sweet.live.filter.cat.face.camera.ne": {
-      "am2_ba": "",
-      "am2_in": "cv2f2C9HZYxDjeKn8ojSy/HtwXRmnbM/n+S3PRhQSXHGQ++9VK8fmlhjTQqA55QY",
-      "am2_na": "",
-
-      "am_ba": "",
-      "am_in": "cv2f2C9HZYxDjeKn8ojSy/HtwXRmnbM/n+S3PRhQSXHGQ++9VK8fmlhjTQqA55QY",
-      "am_na": "",
-
-      "al_ba": "K5knpeHfox87CWcngZfU8FLpSCoLDHVznXL7J1sQCMA=",
-      "al_in": "wjGGZguyUxYnxSEe5KgprDuRpzF/c7HWaTafpJXElPw=",
-      "al_re": "jvmECXEtKy9ZJpvV50i6Na/FVjBnnxM87/MFB/qJlHM=",
-      "al_na": "3yqpUF+2XKjLbywAQdkPXzf+hRwdhewBsfV4ZkZm5UY=",
-
-      "app_id": "ca-app-pub-2626306840567289~5487743045",
 
       "interval": 60000,
 
